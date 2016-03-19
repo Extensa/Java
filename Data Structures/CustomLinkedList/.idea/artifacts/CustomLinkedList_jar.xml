@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CustomLinkedList:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CustomLinkedList_jar</output-path>
+    <root id="archive" name="CustomLinkedList.jar">
+      <element id="module-output" name="CustomLinkedList" />
+    </root>
+  </artifact>
+</component>
